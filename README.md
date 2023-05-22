@@ -30,9 +30,6 @@ The code begins with the standard HTML structure. It defines the document type, 
 
 The <body> section contains the main content of the page.
 
-# Page Title and Heading
-The <h1> element displays the title of the page, which is "Movie Ticket Booking".
-
 # Create Operation
 The code checks if the edit_id variable is present. If it is, the page displays an edit form. Otherwise, it displays a create form.
 
